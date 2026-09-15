@@ -6,12 +6,6 @@
 */
 @custom-variant dark (&:is(.dark *));
 
-/*
-  Sistema de diseño "Atelier Serenidad" (Decovinilos)
-  Tokens extraídos 1:1 del export de Stitch (DESIGN.md + tailwind.config
-  inline de las 4 pantallas). No se han "inventado" valores nuevos aquí:
-  cualquier cambio de marca debe hacerse editando estas variables.
-*/
 
 @theme inline {
   /* Colores — paleta Material-like usada en el export */
